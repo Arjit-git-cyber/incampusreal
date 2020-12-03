@@ -1,0 +1,186 @@
+.carousel-caption
+{
+    position: absolute;
+    right: 24%;
+    bottom: 20px;
+    left: 10%;
+    z-index: 10;
+    padding-top: 16px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 200px;
+    margin-top: 200px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    
+}
+
+.form
+{
+
+    width: 500px;
+    height: 500px;
+    margin-top: 500px;
+
+    position: relative;
+    
+       margin: auto;
+    
+}
+
+.two
+{
+    background-color: blueviolet;
+    width: 100%;
+    height: 700px;
+    
+}
+.five
+{
+    background-color: blueviolet;
+    width: 100%;
+    height: 250px; 
+}
+.head
+{
+  /*margin-left: 360px;*/
+    color: white;
+    margin: auto;
+   display: block;
+   width: 50%;
+}
+.two1
+{
+    /*margin-left: 320px;*/
+    display: block;
+  
+  margin: auto;
+  width: 25%;
+    
+}
+.two2
+{
+   /* margin-left: 560px;*/
+   margin: auto;
+   display: block;
+   width: 25%;
+
+}
+.two3
+{
+    /*margin-left: 820px; */
+    margin-bottom: 600px;
+
+    margin: auto;
+   display: block;
+   width: 25%;
+}
+.one1
+{
+    background-color: white;
+    
+}
+.four
+{
+    background-color: white;
+    width: 1500px;
+    height: 750px;
+    
+
+}
+.card1
+{
+    /*margin-left: 140px;*/
+    margin-top: 200px;
+}
+.card2
+{
+    /*margin-left: 500px; */
+}
+.card3
+{
+    /* margin-left: 850px ;*/
+    
+}
+.headcard
+{
+    color: blueviolet;
+    
+
+}
+
+.five1
+{
+    color: white;
+    /*margin-left: 600px;*/
+    padding-top: 10px;
+}
+
+.back
+{
+    width: 100%;
+    height: 700px;
+    position: relative;
+}
+.logo
+{
+    height: 50px;
+    width: 120px;
+    /*margin-left: 20px;*/
+}
+.logo2
+{
+    height: 80px;
+    width: 170px;
+    /*margin-left: 10px;*/
+}
+.card-img-top
+{
+    width: 100px;
+    height: 100px;
+}
+.card-deck
+{
+    position: relative;
+   
+    margin-top: 150px;
+}
+.one
+{
+    /*margin-right: 200px;*/
+    margin-bottom: 50px;
+}
+.card-body
+{
+    color: #cc33ff;
+    
+}
+.card-title1
+{
+    font-size: 60px;
+    
+}
+.card-text
+{
+    font-size: 22px
+    
+}
+.card2
+{
+    
+    /*margin-right: 250px;*/
+}
+.one1
+{
+    /*margin-left: 400px;*/
+}
+.container
+{
+    margin: auto;
+    
+}
+.container1
+{
+    margin: auto;
+}
